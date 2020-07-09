@@ -56,18 +56,19 @@ p{
         float:left;
     }
 
-    #div3{
-        width: 100%;
+    .col-md-12{
+        width:100%;
+        float: left;
     }
 
-    #div3 p{
+    .col-md-12 p{
         width: 95%;
     }
 
-    #div3 section{
-        height:25px;
+    .col-md-12 section{
         right:2.5%;
     }
+
 }
 
 @media(max-width:767px){
